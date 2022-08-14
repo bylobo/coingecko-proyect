@@ -1,0 +1,13 @@
+.nav{
+    background-color: rgb(33, 33, 33);
+    padding: 10px;
+}
+
+a{
+    color: rgb(251, 251, 251);
+    text-decoration: none;
+}
+
+body{
+    margin: 0;
+}
